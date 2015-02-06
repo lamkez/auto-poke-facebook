@@ -8,8 +8,9 @@ window.setInterval(function(){
 		if(items.state === true) {
 			// alert(items.state);
         	poke();
-        }
+        	}
 	});
+	location.reload();
 }, 1000);
 
 //main poke function called after an interval
