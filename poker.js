@@ -10,7 +10,7 @@ window.setInterval(function(){
         	poke();
         }
 	});
-}, 5000);
+}, 1000);
 
 //main poke function called after an interval
 function poke(){
